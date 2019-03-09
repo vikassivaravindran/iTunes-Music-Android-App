@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GROUP3_HW03</string>
+    <string name="Limit">Limit:</string>
+    <string name="limit_integer_value">10</string>
+    <string name="search_button">SEARCH</string>
+    <string name="reset_button">RESET</string>
+    <string name="sort_by">Sort By:</string>
+    <string name="Price_Main">Price</string>
+    <string name="Results">Results</string>
+    <string name="Date_Main">Date</string>
+    <string name="Track">Track:</string>
+    <string name="Price">Price:</string>
+    <string name="genre_name">Genre:</string>
+    <string name="track_name">Track:</string>
+    <string name="artist_name">Artist:</string>
+    <string name="album_name">Album:</string>
+    <string name="track_price">Track Price:</string>
+    <string name="album_price_name">Album Price:</string>
+    <string name="Finish">Finish</string>
+    <string name="Artist_name">Artist:</string>
+    <string name="Date">Date:</string>
+    <string name="Artist">Artist:</string>
+</resources>
